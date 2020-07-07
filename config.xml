@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<value>
+
+	<driverClass>com.mysql.jdbc.Driver</driverClass>
+	<connectionUrl>jdbc:mysql://localhost:3306/felabella_test?serverTimezone=UTC</connectionUrl>
+	<db_UserName>root</db_UserName>
+	<db_Password></db_Password>
+	<db_Name>felabella_test</db_Name>
+	
+	<insert_into_listing_pages_table>false</insert_into_listing_pages_table>
+	<insert_into_product_links_table>true</insert_into_product_links_table>
+</value>
